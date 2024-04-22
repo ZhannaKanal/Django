@@ -144,3 +144,14 @@ EMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'
 
 MEDIA_URL = '/media/'
 MEDIA_ROOT = os.path.join(BASE_DIR, 'media/')
+
+# SOCIAL_AUTH_FACEBOOK_KEY = '' # Facebook App ID
+# SOCIAL_AUTH_FACEBOOK_SECRET = '' # Facebook App Secre
+
+# SOCIAL_AUTH_FACEBOOK_SCOPE = ['email']
+
+# SOCIAL_AUTH_TWITTER_KEY = '' # Twitter API Key
+# SOCIAL_AUTH_TWITTER_SECRET = '' # Twitter API Secret
+
+# SOCIAL_AUTH_GOOGLE_OAUTH2_KEY = '' # Google Consumer Key
+# SOCIAL_AUTH_GOOGLE_OAUTH2_SECRET = '' # Google Consumer Secret
